@@ -1,4 +1,3 @@
-# ai-crop-yield-prediction
 # AI Crop Yield Prediction Project
 
 This project was created for Pearson BTEC Unit 21: Introduction to Artificial Intelligence.
